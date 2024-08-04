@@ -7,4 +7,5 @@ IDE : Microsoft Visual Studio Community 2022 (64-bit)
 ### 1. 게임 초기 화면
 ![Cap 2024-08-03 17-46-53-575](https://github.com/user-attachments/assets/76d3baf3-bc41-4d6a-a222-833cbf7b9b19)
 
- 
+ ### 2. 탄알 발사기 추가
+ ![Cap 2024-08-05 00-50-31-736](https://github.com/user-attachments/assets/0741aca2-f554-4a38-8e87-ac18d150194f)
