@@ -808,7 +808,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dce0f8f9889b6b34faccddec6f35de5e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  playerRigidbody: {fileID: 1309601583}
   speed: 8
 --- !u!1 &1831961343
 GameObject:
